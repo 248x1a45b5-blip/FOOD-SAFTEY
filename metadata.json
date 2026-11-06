@@ -1,0 +1,6 @@
+{
+  "name": "FoodSafe – Food Safety Management System",
+  "description": "Android mobile application and interactive system for food safety monitoring, expiry date tracking, hygiene checklists, safe temperature guides, and contamination risk prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
